@@ -37,8 +37,6 @@ You can submit new services here: https://github.com/shifa123/ALLsubdomaintakeov
 
 # All entries
 
-# All entries
-
 Engine                                        | Status         | Old Fingerprint                                                             | New Fingerprint                                                 | Documentation
 --------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
 Acquia | Not vulnerable | `Web Site Not Found` |`If you are an Acquia Cloud customer and expect to see your site at this address` ``|[Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)
