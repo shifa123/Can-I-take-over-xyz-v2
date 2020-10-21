@@ -20,8 +20,8 @@ You can read up more about subdomain takeovers here:
 Based on personal experience, claiming the subdomain discreetly and serving a harmless file on a hidden page is usually enough to demonstrate the security vulnerability. Do not serve content on the index page. A good proof of concept could consist of an HTML comment served via a random path:
 
 ```
-$ cat aelfjj1or81uegj9ea8z31zro.html
-<!-- PoC by username -->
+$ cat index.html
+<!-- PoC by Hacker -->
 ```
 
 Please be advised that this depends on what bug bounty program you are targeting. When in doubt, please refer to the bug bounty program's security policy and/or request clarifications from the team behind the program.
@@ -32,8 +32,7 @@ I recommend searching for the name of the service you are targeting in the issue
 
 ## How to contribute
 
-You can submit new services here: https://github.com/EdOverflow/can-i-take-over-xyz/issues/new?template=new-entry.md.
+You can submit new services here: https://github.com/shifa123/ALLsubdomaintakeovers/issues/new?template=new-entry.md
 
-A list of services that can be checked (although check for duplicates against this list first) can be found here: https://github.com/EdOverflow/can-i-take-over-xyz/issues/26.
 
 # All entries
