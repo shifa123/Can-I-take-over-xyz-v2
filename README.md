@@ -36,3 +36,8 @@ You can submit new services here: https://github.com/shifa123/ALLsubdomaintakeov
 
 
 # All entries
+
+Engine                                        | Status         | Fingerprint                                                             | Discussion                                                    | Documentation
+--------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
+Acquia | Not vulnerable | `Web Site Not Found` |[Issue #103](https://github.com/EdOverflow/can-i-take-over-xyz/issues/103)
+Agile CRM | Vulnerable | `Sorry, this page is no longer available.` |[Issue #145](https://github.com/EdOverflow/can-i-take-over-xyz/issues/145)
