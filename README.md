@@ -1,4 +1,2 @@
-# ALLsubdomaintakeovers
-
 
 ![Screenshot](canitakeoverallxyz.png)
