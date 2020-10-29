@@ -62,29 +62,37 @@ Cloudfront       | Not vulnerable     |               `ViewerCertificateExceptio
    Feedpress       | Not vulnerable     |               `The feed has not been found.` |     `The feed has not been found.`          
  Firebase       | Not Vulnerable     |                | 
   Fly.io       | Vulnerable     |               `404 Not Found` |               
-   Freshdesk       | Not vulnerable     |                |                         
+   Freshdesk       | Not vulnerable     |                |   
+  Frontify       | Vulnerable     |               `404 - Page Not Found` |          `Oops… looks like you got lost`                           
    Gemfury       | Vulnerable     |               `404: This page could not be found.` |          `404: This page could not be found.`     
    Ghost       | vulnerable     |               `The thing you were looking for is no longer here, or never was` |     `The thing you were looking for is no longer here` 
    Github       | vulnerable     |               `There isn't a Github Pages site here.` |     `There isn't a GitHub Pages site here.`          
  Gitlab       | Not Vulnerable     |                | 
   Google Cloud Storage      | Vulnerable     |               `NoSuchBucket The specified bucket does not exist.` |       |
+  Getresponse       | vulnerable     |               `With GetResponse Landing Pages, lead generation has never been easier` |     `With GetResponse Landing Pages, lead generation has never been easier`
    HatenaBlog       | Vulnerable     |               `404 Blog is not found` |          `404 Blog is not found`     
    Help Juice       | vulnerable     |               `We could not find what you're looking for.` |     `We could not find what you're looking for.`  |
 Help Scout       | Vulnerable     |               `No settings were found for this company:` |          `No settings were found for this company:`     
    Heroku       | Edge case     |               `No such app` |     `There's nothing here, yet.` 
+   Helprace       | Vulnerable     |               |          `Alias not configured!`     
+   Hubspot       | vulnerable     |                |     `Domain not found` 
   Instapage       | Non Vulnerable     |                |              
    Intercom       | vulnerable     |               `Uh oh. That page doesn't exist.` |     `This page is reserved for artistic dogs.` 
    JetBrains       | Vulnerable     |               `is not a registered InCloud YouTrack` |          `is not a registered InCloud YouTrack.`     
+   Jazzhr       | Vulnerable     |                |          `This account no longer active`  
    Key CDN       | Not vulnerable     |                |     
    Kinsta       | Vulnerable     |               `No Site For Domain` |          `No Site For Domain`     
    LaunchRock       | vulnerable     |               `It looks like you may have taken a wrong turn somewhere. Don't worry...it happens to all of us.` |     `It looks like you may have taken a wrong turn somewhere. Don't worry...it happens to all of us.` 
+   Landingi       | vulnerable     |                |     `It looks like you're lost` 
    Mashery       | Edge Case     |               `Unrecognized domain` |          `Unrecognized domain <strong>`     
    Microsoft Azure       | vulnerable     |                |     
    Netlify       | Edge Case     |                |    `Not Found`           
    Ngrok       | vulnerable     |               `Tunnel *.ngrok.io not found` |     `ngrok.io not found` 
    Pantheon       | Vulnerable     |               `404 error unknown site!` |          `The gods are wise, but do not know of the site which you seek.`     
    Pingdom       | vulnerable     |               `This public report page has not been activated by the user` |     `Public Report Not Activated` | 
-   Readme.io       | Vulnerable     |               `Project doesnt exist... yet!` |          `Project doesnt exist... yet!`     
+   Proposify       | Vulnerable     |                |          `If you need immediate assistance, please contact <a href="mailto:support@proposify.biz`     
+ Readme.io       | Vulnerable     |               `Project doesnt exist... yet!` |          `Project doesnt exist... yet!` 
+ Readthedocs       | vulnerable     |        |     `unknown to Read the Docs`     
    Sendgrid       |Not vulnerable     |                |    
    Shopify       | Vulnerable     |               `Sorry, this shop is currently unavailable.` |          `Only one step left!`     
    SmartJobBoard       | vulnerable     |               `This job board website is either expired or its domain name is invalid.` |     `Job Board Is Unavailable` 
@@ -92,18 +100,25 @@ Help Scout       | Vulnerable     |               `No settings were found for th
    Statuspage       | Not vulnerable     |                |     
    Strikingly       | Vulnerable     |               `page not found` |          `But if you're looking to build your own website`     
    Surge.sh       | vulnerable     |               `project not found` |     `project not found` | 
+   Simplebooklet       | vulnerable     |                |     `We can't find this <a href="https://simplebooklet.com` 
+  Smartling       | Vulnerable     |                |          `Domain is not configured`     
+   Smugmug       | vulnerable     |                |     `{"text":"Page Not Found"` 
+  Surveygizmo       | vulnerable     |        |     `data-html-name` 
+  Tave       | Vulnerable     |                |          `<h1>Error 404: Page Not Found</h1>`     
+   Teamwork       | vulnerable     |                |     `Oops - We didn't find your site.` 
+   Tictail       | vulnerable     |                |     `Building a brand of your own?` 
    Tumblr       | Edge Case     |               `Whatever you were looking for doesn't currently exist at this address` |          `There's nothing here.`     
    Tilda       |  Edge Case     |              `Please renew your subscription` |     `<title>Please renew your subscription</title>` | 
  Uberflip       | Vulnerable     |               `Non-hub domain, The URL you've accessed does not provide a hub.` |          `Non-hub domain, The URL you've accessed does not provide a hub.`     |
   Unbounce       | Edge Case     |               `The requested URL was not found on this server.` |     `The requested URL was not found on this server.` 
   Uptimerobot       | Vulnerable     |               `page not found` |          `page not found`     
    UserVoice       | vulnerable     |               `This UserVoice subdomain is currently available!` |     `This UserVoice subdomain is currently available!` 
+   Vercel       | Vulnerable     |                |          `The deployment could not be found on Vercel.`  
+   Vend       | vulnerable     |        |     `Looks like you've traveled too far into cyberspace.` 
    Webflow       | Edge Case     |               `The page you are looking for doesn't exist or has been moved.` |          `<p class="description">The page you are looking for doesn't exist or has been moved.</p>`     
+   Wishpond       | Vulnerable     |                |          `https://www.wishpond.com/404?campaign=true`     
+   Wufoo       | vulnerable     |                |     `Profile not found` 
    Wordpress       | vulnerable     |               `Do you want to register *.wordpress.com?` |     `Do you want to register` 
    Worksites       | Vulnerable     |               `Hello! Sorry, but the website you&rsquo;re looking for doesn&rsquo;t exist.` |          `Company Not Found | you&rsquo;re looking for doesn&rsquo;t exist`     |
    WP Engine       | Not vulnerable     |                |  
    Zendesk       | Not vulnerable     |    `Help Center Closed`            |      
-    
-    
-   
-          
